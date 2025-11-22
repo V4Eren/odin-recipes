@@ -1,0 +1,59 @@
+body {
+  font-family: "Josefin Sans", sans-serif;
+}
+
+img {
+    width: auto;
+    height: 400px;
+}
+
+#lasagna_img {
+    margin-left: 460px;
+}
+
+#pizza_img {
+    margin-left: 626.675px;
+}
+
+#lahmacun_img {
+    margin-left: 458.0415px;
+}
+
+h1,h2,p {
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+strong {
+    padding: 10px;
+}
+
+ul {
+    margin-left: 40%;
+}
+
+ol {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+li {
+    padding: 5px;
+}
+
+a {
+    margin-left: 21%;
+    padding: 5px;
+    display: inline;
+}
+
+#home_link{
+    margin-left: 738.64px;
+}
+
+.links {
+    background-color: yellow;
+}
